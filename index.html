@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Damian Wyryszuk — Portfolio redakcyjne z serwisu Benchmark.pl</title>
+
+    <meta
+        name="description"
+        content="Portfolio redakcyjne Damiana Wyryszuka z serwisu Benchmark.pl. Publikacje dotyczące technologii, gier, sprzętu komputerowego i nowych technologii."
+    >
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background: #f6f7f9;
+            color: #202124;
+        }
+
+        header {
+            background: #15171a;
+            color: white;
+            padding: 60px 20px;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            margin: 0 0 10px;
+            font-size: 42px;
+        }
+
+        header p {
+            margin: 0;
+            color: #c7cbd1;
+            font-size: 18px;
+        }
+
+        main {
+            padding: 40px 20px;
+        }
+
+        .intro {
+            margin-bottom: 40px;
+        }
+
+        .intro h2 {
+            margin-bottom: 10px;
+        }
+
+        .search {
+            width: 100%;
+            padding: 14px 16px;
+            margin: 20px 0 30px;
+            border: 1px solid #d8dce1;
+            border-radius: 8px;
+            font-size: 16px;
+        }
+
+        .article {
+            background: white;
+            border: 1px solid #e2e5e9;
+            border-radius: 10px;
+            padding: 22px;
+            margin-bottom: 16px;
+        }
+
+        .article:hover {
+            border-color: #b8bec6;
+        }
+
+        .article-meta {
+            font-size: 14px;
+            color: #737980;
+            margin-bottom: 8px;
+        }
+
+        .article h3 {
+            margin: 0 0 12px;
+            font-size: 20px;
+        }
+
+        .article a {
+            color: #1769aa;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .article a:hover {
+            text-decoration: underline;
+        }
+
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            color: #777;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <div class="container">
+        <h1>Damian Wyryszuk</h1>
+        <p>Portfolio redakcyjne • technologia • gry • hardware • software</p>
+    </div>
+</header>
+
+<main class="container">
+
+    <section class="intro">
+        <h2>Publikacje</h2>
+
+        <p>
+            Wybrane materiały mojego autorstwa opublikowane
+            m.in. w serwisie benchmark.pl.
+        </p>
+
+        <input
+            type="text"
+            id="search"
+            class="search"
+            placeholder="Szukaj publikacji..."
+        >
+    </section>
+
+    <section id="articles">
+
+        <article class="article">
+            <div class="article-meta">
+                benchmark.pl • Gry
+            </div>
+
+            <h3>
+                Miliony zagrały w tę grę chwilę po premierze,
+                a studio świętuje
+            </h3>
+
+            <a
+                href="https://www.benchmark.pl/miliony-zagraly-w-te-gre-chwile-po-premierze-a-studio-swietuje-7265602366222913a"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                Czytaj artykuł →
+            </a>
+        </article>
+
+    </section>
+
+</main>
+
+<footer>
+    © Damian Wyryszuk
+</footer>
+
+<script>
+    const search = document.getElementById("search");
+    const articles = document.querySelectorAll(".article");
+
+    search.addEventListener("input", function () {
+        const phrase = this.value.toLowerCase();
+
+        articles.forEach(article => {
+            const text = article.innerText.toLowerCase();
+
+            article.style.display =
+                text.includes(phrase) ? "" : "none";
+        });
+    });
+</script>
+
+</body>
+</html>
