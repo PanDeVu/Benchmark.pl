@@ -1,0 +1,2018 @@
+[
+  {
+    "id": 1,
+    "date": "2022-05-23",
+    "title": "TikTok próbuje wejść do świata mobilnych gier",
+    "category": "Aplikacje mobilne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/tiktok-probuje-wejsc-do-swiata-mobilnych-gier.html"
+  },
+  {
+    "id": 2,
+    "date": "2022-05-29",
+    "title": "Steam Deck ma kolejnego rywala. Czy LOKI jest w stanie pokonać produkt Valve?",
+    "category": "Konsole do gier",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/ayn-loki-przenosna-konsola-do-gier-w-stylu-steam-deck.html"
+  },
+  {
+    "id": 3,
+    "date": "2022-06-05",
+    "title": "Tak się robi integry! Radeon 660M potrafi udźwignąć God of War w FullHD!",
+    "category": "Karty graficzne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/radeon-660m-wydajnosc-apu-w-grze-god-of-war.html"
+  },
+  {
+    "id": 4,
+    "date": "2022-06-12",
+    "title": "Aktualizacja Windows 11 do wersji 22H2 dostępna dla chętnych, a za rogiem już nowe funkcje",
+    "category": "Systemy operacyjne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/windows-11-22h2-nowe-funkcje-w-produkcji-7265223785866305a"
+  },
+  {
+    "id": 5,
+    "date": "2022-06-19",
+    "title": "WhatsApp z nową, przydatną funkcją w rozmowach grupowych",
+    "category": "Mobile",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/whatsapp-wprowadza-mozliwosc-wyciszania-osob-w-grupie.html"
+  },
+  {
+    "id": 6,
+    "date": "2022-07-03",
+    "title": "Google usunie Twoje dane lokalizacyjne z potencjalnie \"wrażliwych\" miejsc. To efekt zmian prawnych w USA.",
+    "category": "Wydarzenia",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/google-bedzie-usuwac-wrazliwe-miejsca-z-historii-wyszukiwania.html"
+  },
+  {
+    "id": 7,
+    "date": "2022-07-03",
+    "title": "Polak uwolnił potencjał konsoli GameCube. Wystarczyło zastosować Raspberry Pi!",
+    "category": "Konsole do gier",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/raspberry-pi-pico-umozliwia-uruchamianie-homebrew-na-gamecube-7265226695000641a"
+  },
+  {
+    "id": 8,
+    "date": "2022-07-09",
+    "title": "AMD Threadripper 5995WX podkręcony do ponad 4.8GHz. Sprawdzono potencjał procesora!",
+    "category": "Procesory",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/amd-threadripper-5995wx-podkrecony-do-ponad-4-8ghz.html"
+  },
+  {
+    "id": 9,
+    "date": "2022-07-10",
+    "title": "Xbox Cloud Gaming wygląda gorzej na Linuksie – jest na to rozwiązanie",
+    "category": "Gry",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/xbox-cloud-gaming-wyglada-gorzej-na-linuksie.html"
+  },
+  {
+    "id": 10,
+    "date": "2022-07-16",
+    "title": "Microsoft ostrzega, zbliża się koniec wsparcia dla kolejnego systemu Windows",
+    "category": "Systemy operacyjne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/koniec-wsparcia-dla-systemu-windows-8-1-7265229247717953a"
+  },
+  {
+    "id": 11,
+    "date": "2022-07-17",
+    "title": "Hyundai wypuścił auto łączące „Powrót do przyszłości” z realną przyszłością – Poznajcie model N Vision 74",
+    "category": "Pojazdy",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/zapowiedz-hyundai-n-vision-74.html"
+  },
+  {
+    "id": 12,
+    "date": "2022-07-21",
+    "title": "Macbook Air z Apple M2 za gorący? Użytkownik znalazł (częściowe) rozwiązanie!",
+    "category": "Ultrabooki",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/macbook-air-z-m2-problem-przegrzewania-sie-soc.html"
+  },
+  {
+    "id": 13,
+    "date": "2022-07-25",
+    "title": "Pamiętacie grę „Into the Breach”? Deweloperzy na pewno, bo wydali po ponad 4 latach bezpłatne rozszerzenie!",
+    "category": "Gry",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/into-the-breach-otrzymal-bezplatna-aktualizacje-advanced-edition.html"
+  },
+  {
+    "id": 14,
+    "date": "2022-07-27",
+    "title": "Huawei wciąż walczy – nadchodzi odświeżony Huawei MatePad Pro 11",
+    "category": "Tablety",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/huawei-matepad-pro-11-nadchodzi-premiera.html"
+  },
+  {
+    "id": 15,
+    "date": "2022-07-30",
+    "title": "AMD rusza ze sprzedażą swoich nowych produktów, ale nie tych, o których teraz myślisz!",
+    "category": "Fotele gamingowe",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/amd-oferuje-nietypowy-produkt-w-swoim-portfolio.html"
+  },
+  {
+    "id": 16,
+    "date": "2022-08-14",
+    "title": "Czy Intel Arc A380 może mieć jakieś zalety? Zapowiada się, że tak!",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/intel-arc-a380-posiada-potencjal-w-oc.html"
+  },
+  {
+    "id": 17,
+    "date": "2022-08-21",
+    "title": "[AKTUALIZACJA] Azjatycki partner Apple przedstawia prawdopodobną listę nowych urządzeń. Zestawienie zaskakuje",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/lista-prawdopodobnych-premier-urzadzen-marki-apple.html"
+  },
+  {
+    "id": 18,
+    "date": "2022-08-28",
+    "title": "Granie na Netfliksie i seriale z reklamami. Są nowe informacje na temat rozwoju platformy",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/granie-na-netfliksie-i-seriale-z-reklamami-7265256737026625a"
+  },
+  {
+    "id": 19,
+    "date": "2022-09-12",
+    "title": "Tecno Camon 19 Pro Mondrian Edition - Powiew świeżości wśród smartfonów!",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/camon-19-pro-mondrian-edition-powiew-swiezosci-wsrod-smartfonow.html"
+  },
+  {
+    "id": 20,
+    "date": "2022-09-18",
+    "title": "Logitech planuje wprowadzenie nowego sprzętu. Co producent nam przedstawi?",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/logitech-wyda-nowy-sprzet-dla-graczy-zapowiedz.html"
+  },
+  {
+    "id": 21,
+    "date": "2022-09-19",
+    "title": "Gry z PSVR nie będą kompatybilne z nowymi goglami, ponieważ dlaczego miałyby być?",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/gry-z-psvr-nie-beda-kompatybilne-z-psvr2-wyjasnienie.html"
+  },
+  {
+    "id": 22,
+    "date": "2022-09-26",
+    "title": "Nowa rewizja PlayStation 5 jednak przyniesie zmiany „pod maską”",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/zmiany-wewnatrz-nowej-wersji-playstation-5.html"
+  },
+  {
+    "id": 23,
+    "date": "2022-09-29",
+    "title": "Co to jest rekurencja – poradnik szkolny",
+    "category": "Testy i recenzje",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/testy_i_recenzje/poradnik-it-szkolny-rekurencja.html"
+  },
+  {
+    "id": 24,
+    "date": "2022-10-03",
+    "title": "Co dalej z Warner Bros. Discovery? Czy gigant odsprzeda część siebie?",
+    "category": "Filmy / seriale / VOD",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/warner-bros-discovery-co-dalej-z-firma-7265263950316609a"
+  },
+  {
+    "id": 25,
+    "date": "2022-10-05",
+    "title": "Co może osiągnąć Polak w wieku 24 lat? Na przykład zostać członkiem zarządu Wikimedia Europe!",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/polak-zostal-czlonkiem-zarzadu-wikimedia-europe.html"
+  },
+  {
+    "id": 26,
+    "date": "2022-10-10",
+    "title": "ASUS ogłasza wprowadzenie na rynek nowego Mini-PC. Co znajdziemy w środku?",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/asus-oglasza-wprowadzenie-na-rynek-nowego-mini-pc.html"
+  },
+  {
+    "id": 27,
+    "date": "2022-10-16",
+    "title": "Jak bardzo można mieć w głębokim poważaniu swoich klientów? Spytaj AOL i Yahoo!",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/problemy-z-synchronizacja-yahoo-i-aol.html"
+  },
+  {
+    "id": 28,
+    "date": "2022-10-23",
+    "title": "Persona 5 w wersji Royal od teraz dostępna dla „wszystkich” platform",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/premiera-gry-persona-5-royal-na-innych-platformach-7265267311825985a"
+  },
+  {
+    "id": 29,
+    "date": "2022-10-28",
+    "title": "Elon Musk wreszcie przejął Twittera. Zaczął od serii zwolnień",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/elon-musk-przejal-twittera-zaczal-od-serii-zwolnien-7265268058915905a"
+  },
+  {
+    "id": 30,
+    "date": "2022-10-31",
+    "title": "Zelda: Breath of the Wild w 8K z 60 FPS i lepszym oświetleniem? Dlaczego by nie?",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/zelda-breath-of-the-wild-w-8k-z-60-fps-na-pc-7265268502291521a"
+  },
+  {
+    "id": 31,
+    "date": "2022-11-06",
+    "title": "Honda prezentuje nową platformę dla swoich aut. Czy tak będą wyglądać przyszłe elektryki producenta?",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/honda-prezentuje-nowa-platforme-dla-swoich-aut.html"
+  },
+  {
+    "id": 32,
+    "date": "2022-11-12",
+    "title": "MediaTek Pentonic 1000 – nowy SoC do telewizorów z 4K i 120Hz",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/mediatek-pentonic-1000-nowy-soc-do-telewizorow-z-4k-i-120hz.html"
+  },
+  {
+    "id": 33,
+    "date": "2022-11-19",
+    "title": "Licencja na Microsoft Office w bardzo korzystnej cenie. Warto się zastanowić nad zakupem!",
+    "category": "Oprogramowanie",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/licencja-na-microsoft-office-w-bardzo-korzystnej-cenie.html"
+  },
+  {
+    "id": 34,
+    "date": "2022-11-19",
+    "title": "Nowy GPU-Z z bardzo przydatną funkcją dla kart RTX 4090 i 4080",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/nowy-gpu-z-monitoruje-16-pinowe-zlacze-kart-rtx-4090-i-4080.html"
+  },
+  {
+    "id": 35,
+    "date": "2022-11-27",
+    "title": "Huawei nadal walczy – trwają przygotowania nowego, „składanego” zawodnika",
+    "category": "Telefony",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/huawei-przygotowuje-nowy-skladany-smatfon-7265273505583681a"
+  },
+  {
+    "id": 36,
+    "date": "2022-12-06",
+    "title": "Podstawy kryptografii i szyfr Cezara – poradnik szkolny",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/podstawy-kryptografii-i-szyfr-cezara-poradnik-szkolny-7268393675289665a"
+  },
+  {
+    "id": 37,
+    "date": "2022-12-11",
+    "title": "Apple w obliczu przejścia we wszystkich urządzeniach na USB-C. Jak to będzie?",
+    "category": "Mobile",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/apple-w-obliczu-przejscia-we-wszystkich-urzadzeniach-na-usb-c.html"
+  },
+  {
+    "id": 38,
+    "date": "2022-12-13",
+    "title": "Projekt Chromium zostaje wzbogacony o nową metodę zabezpieczania haseł!",
+    "category": "Bezpieczeństwo",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/projekt-chromium-dostaje-nowa-metode-zabezpieczania-hasel-7265276495757889a"
+  },
+  {
+    "id": 39,
+    "date": "2022-12-15",
+    "title": "Henry Cavill jednak nie powróci jako Superman?",
+    "category": "Filmy / seriale / VOD",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/henry-cavill-jednak-nie-powroci-jako-superman.html"
+  },
+  {
+    "id": 40,
+    "date": "2022-12-17",
+    "title": "Przeglądarkowi giganci połączą siły dla „większego dobra” w Internecie",
+    "category": "Przeglądarki WWW",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/przegladarkowi-giganci-polacza-sily.html"
+  },
+  {
+    "id": 41,
+    "date": "2022-12-18",
+    "title": "OnePlus zapowiada rocznicowy sprzęt dla graczy i nie chodzi o smartfony!",
+    "category": "Klawiatury",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/oneplus-zapowiada-sprzet-dla-graczy.html"
+  },
+  {
+    "id": 42,
+    "date": "2022-12-18",
+    "title": "SpinQ wprowadza do sprzedaży pierwsze na świecie przenośne komputery kwantowe!",
+    "category": "Ciekawostki",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/spinq-wprowadza-do-sprzedazy-przenosne-komputery-kwantowe-7265277626446913a"
+  },
+  {
+    "id": 43,
+    "date": "2022-12-25",
+    "title": "Poradnik zakupowy – Jak zwrócić towar kupiony przez Internet?",
+    "category": "Ciekawostki",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/jak-zwrocic-towar-kupiony-przez-internet.html"
+  },
+  {
+    "id": 44,
+    "date": "2022-12-30",
+    "title": "Poradnik zakupowy – Jak zareklamować zakupiony produkt? Gwarancja czy rękojmia?",
+    "category": "Ciekawostki",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/poradnik-zakupowy-jak-zareklamowac-zakupiony-produkt.html"
+  },
+  {
+    "id": 45,
+    "date": "2023-01-04",
+    "title": "Odzieranie się z prywatności na własne życzenie – Jak prywatne urządzenia nas monitorują?",
+    "category": "Bezpieczeństwo",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/jak-prywatne-urzadzenia-nas-monitoruja.html"
+  },
+  {
+    "id": 46,
+    "date": "2023-01-07",
+    "title": "Microsoft i AMD pogłębiają współpracę dla lepszej wydajności w grach",
+    "category": "Procesory",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/microsoft-i-amd-poglebiaja-wspolprace-7265281552204353a"
+  },
+  {
+    "id": 47,
+    "date": "2023-01-08",
+    "title": "Wyrażenia arytmetyczne – poradnik szkolny",
+    "category": "Ciekawostki",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/testy_i_recenzje/wyrazenia-arytmetyczne-poradnik-szkolny.html"
+  },
+  {
+    "id": 48,
+    "date": "2023-01-12",
+    "title": "Techniki i metody szyfrowania tekstu – poradnik szkolny",
+    "category": "Ciekawostki",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/testy_i_recenzje/techniki-i-metody-szyfrowania-tekstu-poradnik-szkolny.html"
+  },
+  {
+    "id": 49,
+    "date": "2023-01-15",
+    "title": "System76 wprowadza nowy laptop – AMD wraca do łask firmy!",
+    "category": "Laptopy",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/system76-wprowadza-nowy-laptop-7265282832196161a"
+  },
+  {
+    "id": 50,
+    "date": "2023-01-17",
+    "title": "Technologia w służbie rynku beauty - L’Oréal Brow Magic",
+    "category": "Gadżety",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/technologia-w-sluzbie-rynku-beauty-loreal-brow-magic-7265283368223297a"
+  },
+  {
+    "id": 51,
+    "date": "2023-01-20",
+    "title": "„Wszystkie ręce na pokład!” – Nintendo zwiększa produkcję swojej flagowej konsoli",
+    "category": "Konsole do gier",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/nintendo-zwieksza-produkcje-swojej-flagowej-konsoli.html"
+  },
+  {
+    "id": 52,
+    "date": "2023-01-22",
+    "title": "Szkodliwe aplikacje na Androida próbują zmienić adresy DNS na Twoim routerze",
+    "category": "Bezpieczeństwo",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/szkodliwe-aplikacje-na-androida-probuja-zmienic-adresy-dns-7265284179989057a"
+  },
+  {
+    "id": 53,
+    "date": "2023-01-28",
+    "title": "Kolejny gigant streamingowy chce mieć swój serial na podstawie gry komputerowej",
+    "category": "Filmy / seriale / VOD",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/gigant-streamingowy-chce-miec-serial-na-podstawie-gry.html"
+  },
+  {
+    "id": 54,
+    "date": "2023-02-01",
+    "title": "Ogromne zagrożenie dla pendrive USB na systemach Windows",
+    "category": "Bezpieczeństwo",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/plugx-wraca-by-infekowac-pamieci-usb-na-systemach-windows-7265285179106369a"
+  },
+  {
+    "id": 55,
+    "date": "2023-02-19",
+    "title": "Chcesz coś zrobić dobrze? Zrób to sam! Polski Urve Board Pi odpowiedzią na Raspberry Pi!",
+    "category": "Komputery",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/urve-board-pi-odpowiedzia-na-raspberry-pi.html"
+  },
+  {
+    "id": 56,
+    "date": "2023-02-21",
+    "title": "Odchudzony Windows 11 na Raspberry Pi 4? Tiny11 gotowy do instalacji!",
+    "category": "Systemy operacyjne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/odchudzony-windows-11-na-raspberry-pi-4-gotowy-do-instalacji.html"
+  },
+  {
+    "id": 57,
+    "date": "2023-02-26",
+    "title": "AOC wprowadzi na rynek 45-calową, 165Hz „panoramę” do gier",
+    "category": "Monitory",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/aoc-wprowadzi-45-calowa-165hz-panorame-do-gier.html"
+  },
+  {
+    "id": 58,
+    "date": "2023-03-05",
+    "title": "AMD omawia procesory Ryzen 7000 z 3D V-Cache. Co stoi za Zen 4?",
+    "category": "Komputery",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/amd-omawia-procesory-ryzen-7000-z-3d-v-cache-7265290223305281a"
+  },
+  {
+    "id": 59,
+    "date": "2023-03-11",
+    "title": "Chcesz pograć w retro gry na Raspberry Pi? Recalbox 9 zaoferuje Ci naprawdę wiele!",
+    "category": "Konsole do gier",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/recalbox-system-do-retro-gier-ktory-oferuje-wiele.html"
+  },
+  {
+    "id": 60,
+    "date": "2023-03-12",
+    "title": "Korzystasz z serwera SMB na Windows 11? Microsoft wreszcie rozwiązał problem niskiego transferu!",
+    "category": "Oprogramowanie",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/microsoft-rozwiazal-problem-niskiego-transferu-przez-smb.html"
+  },
+  {
+    "id": 61,
+    "date": "2023-03-19",
+    "title": "AMD idzie w ślady firmy Intel? Czy wielkie rdzenie „Zen 4” dostaną małe rdzenie „Zen 4C”?",
+    "category": "Procesory",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/czy-wielkie-rdzenie-zen-4-dostana-male-rdzenie-zen-4c.html"
+  },
+  {
+    "id": 62,
+    "date": "2023-03-19",
+    "title": "Windows 11 (łaskawie) zrobi coś za Twoim pozwoleniem",
+    "category": "Systemy operacyjne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/windows-11-wprowadza-nowe-api-do-przypinania-aplikacji.html"
+  },
+  {
+    "id": 63,
+    "date": "2023-03-25",
+    "title": "Twój własny AI Chatbot serwer na Raspberry Pi? LLaMA Ci w tym pomoże!",
+    "category": "Komputery",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/wlasny-ai-chatbot-serwer-na-raspberry-pi-7265292105450049a"
+  },
+  {
+    "id": 64,
+    "date": "2023-03-26",
+    "title": "Snapdragon 8 Gen 4 ma być zdecydowanie szybszy od Gen 3. Wyniki są imponujące!",
+    "category": "Mobile",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/snapdragon-8-gen-4-bedzie-szybszy-niz-snapdragon-8-gen-3.html"
+  },
+  {
+    "id": 65,
+    "date": "2023-04-01",
+    "title": "Macie obiekcje do płyt głównych AMD opartych o chipset A620? Będą kolejne ograniczenia na tej platformie!",
+    "category": "Płyty główne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/plyta-glowna-amd-a620-bedzie-miala-kolejne-ograniczenia-7265292874105409a"
+  },
+  {
+    "id": 66,
+    "date": "2023-04-02",
+    "title": "ASUS ROG Phone 7 – wyciek specyfikacji tuż przed premierą. Moc jest! A co z resztą?",
+    "category": "Smartfony",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/asus-rog-phone-7-wyciek-specyfikacji-tuz-przed-premiera.html"
+  },
+  {
+    "id": 67,
+    "date": "2023-04-02",
+    "title": "Czy to prima aprilisowy żart marki ASUS? Konkurent Steam Deck zaprezentowany na zwiastunie!",
+    "category": "Sprzęt do gier",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/konkurent-steam-deck-zaprezentowany-przez-firme-asus.html"
+  },
+  {
+    "id": 68,
+    "date": "2023-04-10",
+    "title": "Miesiąc przed premierą wyciekły rendery nowego urządzenia od Google",
+    "category": "Smartfony",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/wyciekly-rendery-nowego-urzadzenia-od-google.html"
+  },
+  {
+    "id": 69,
+    "date": "2023-04-15",
+    "title": "Pamiętacie jeszcze o „Angry Birds”? Ktoś chce kupić franczyzę i to za niemałe pieniądze!",
+    "category": "Mobile",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/ktos-chce-kupic-angry-birds-i-to-za-niemale-pieniadze-7265294131582017a"
+  },
+  {
+    "id": 70,
+    "date": "2023-04-18",
+    "title": "Przeglądarka Vivaldi z nowościami! Co dodano w wersji 6.0?",
+    "category": "Oprogramowanie",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/przegladarka-vivaldi-w-wersji-6-0-opisujemy-zmiany-7265294380086337a"
+  },
+  {
+    "id": 71,
+    "date": "2023-04-22",
+    "title": "Instalacja aplikacji spoza iOS AppStore ma być możliwa, ale tylko na terenie UE",
+    "category": "Mobile",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/sideloading-aplikacji-w-ios-ma-byc-mozliwy-w-ue.html"
+  },
+  {
+    "id": 72,
+    "date": "2023-04-23",
+    "title": "Korporacyjny sprzęt sieciowy na rynku wtórnym, może kryć w sobie wiele ciekawych informacji",
+    "category": "Bezpieczeństwo",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/tajemnice-sprzetu-po-korporacyjnego-na-rynku-wtornym.html"
+  },
+  {
+    "id": 73,
+    "date": "2023-04-30",
+    "title": "Honor Pad V8 debiutuje z najnowszym SoC od MediaTek",
+    "category": "Tablety",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/honor-pad-v8-debiutuje-z-najnowszym-soc-od-mediatek.html"
+  },
+  {
+    "id": 74,
+    "date": "2023-05-01",
+    "title": "Apple zamierza gruntownie przebudować WatchOS 10. Czeka go poważana zmiana!",
+    "category": "Mobile",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/apple-zamierza-gruntownie-przebudowac-watchos-10.html"
+  },
+  {
+    "id": 75,
+    "date": "2023-05-01",
+    "title": "Exynos 2500 może pokazać pazury! Czy będzie konkurencyjny na tle innych SoC?",
+    "category": "Mobile",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/exynos-2500-moze-pokazac-pazury.html"
+  },
+  {
+    "id": 76,
+    "date": "2023-05-02",
+    "title": "Rosyjscy hakerzy wykorzystują fałszywą aktualizację systemu Windows, do atakowania celów rządowych",
+    "category": "Bezpieczeństwo",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/rosyjscy-hakerzy-atakuja-ukrainskie-instytucje.html"
+  },
+  {
+    "id": 77,
+    "date": "2023-05-02",
+    "title": "Stwórzmy sobie Amigę, która nie jest Amigą, ale działa dokładnie jak Amiga!",
+    "category": "Ciekawostki",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/raspberry-pi-jako-amiga-1200.html"
+  },
+  {
+    "id": 78,
+    "date": "2023-05-03",
+    "title": "LinkedIn chce wykorzystać sztuczną inteligencję, aby pomóc Ci w składaniu podania o pracę",
+    "category": "Technologie i Firma",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/linkedin-chce-wykorzystac-ai-do-skladania-podania-o-prace.html"
+  },
+  {
+    "id": 79,
+    "date": "2023-05-03",
+    "title": "USA i UE ostrzegają Malezję przed umową z Huawei. O co konkretnie chodzi?",
+    "category": "Bezpieczeństwo",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/usa-i-ue-ostrzegaja-malezje-przed-umowa-z-huawei.html"
+  },
+  {
+    "id": 80,
+    "date": "2023-05-07",
+    "title": "Chiński producent komputerów wprowadza na rynek bardzo ciekawy procesor. Wygląda jakoś znajomo…",
+    "category": "Procesory",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/powerleader-wprowadza-na-rynek-bardzo-ciekawy-procesor.html"
+  },
+  {
+    "id": 81,
+    "date": "2023-05-13",
+    "title": "Premiera Banana Pi BPI-W3 – Bardzo dobrze wyposażony SBC!",
+    "category": "Komputery",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/premiera-banana-pi-bpi-w3.html"
+  },
+  {
+    "id": 82,
+    "date": "2023-05-13",
+    "title": "Zaktualizowałeś Windowsa do najnowszej wersji? Nie? Spokojnie, zrobisz to – Inaczej stracisz wsparcie!",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/windows-10-21h2-wymaga-aktualizacji.html"
+  },
+  {
+    "id": 83,
+    "date": "2023-05-21",
+    "title": "Te popularne urządzenia z Android TV są dostarczane ze złośliwym oprogramowaniem!",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/przystawki-smart-tv-infekowane-juz-u-producenta.html"
+  },
+  {
+    "id": 84,
+    "date": "2023-05-23",
+    "title": "Nowe algorytmy AI w Adobe Photoshop. Po co Ci umiejętności, skoro masz sztuczną inteligencję?",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/nowe-algorytmy-ai-w-adobe-photoshop.html"
+  },
+  {
+    "id": 85,
+    "date": "2023-05-23",
+    "title": "Wiele firm nadal nie jest gotowych na Windows 11",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/wiele-firm-nadal-nie-jest-gotowych-na-windows-11.html"
+  },
+  {
+    "id": 86,
+    "date": "2023-05-25",
+    "title": "Użyteczna aplikacja na urządzenia z Androidem, nagle stała się szpiegującym trojanem! Sprawdź swój telefon!",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/uzyteczna-aplikacja-nagle-stala-sie-szpiegujacym-trojanem.html"
+  },
+  {
+    "id": 87,
+    "date": "2023-05-27",
+    "title": "Windows XP wiecznie żywy - Algorytm aktywacji złamany!",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/algorytm-aktywacji-windows-xp-zlamany.html"
+  },
+  {
+    "id": 88,
+    "date": "2023-05-28",
+    "title": "Jak zaktualizować BIOS/UEFI w swoim komputerze?",
+    "category": "Testy i recenzje",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/testy_i_recenzje/podglad/13072/aktualizacja-bios-uefi-w-pc.html"
+  },
+  {
+    "id": 89,
+    "date": "2023-05-29",
+    "title": "Antywirus Microsoft Defender otrzyma nowy tryb wydajności! Do kogo będzie kierowany?",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/microsoft-defender-otrzyma-tryb-wydajnosci.html"
+  },
+  {
+    "id": 90,
+    "date": "2023-05-29",
+    "title": "Nowa domena od Google może stać się \"motorem napędowym\" dla oszustów!",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/nowa-domena-google-jest-idealna-dla-oszustow.html"
+  },
+  {
+    "id": 91,
+    "date": "2023-06-04",
+    "title": "All-In-One i komputer dla graczy? eBlazt ma na to (szalony) pomysł!",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/all-in-one-jako-komputer-do-gier.html"
+  },
+  {
+    "id": 92,
+    "date": "2023-06-08",
+    "title": "Kolejni biorą na „warsztat” Kubusia Puchatka. Jaki plan mają na tę postać?",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/kubus-puchatek-bedzie-bohaterem-nowej-gry.html"
+  },
+  {
+    "id": 93,
+    "date": "2023-06-10",
+    "title": "Modyfikacja Steam Deck pozwala zmniejszyć temperatury APU o 32%! Szkoda, że absurdalnym kosztem…",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/modyfikacja-steam-deck-obniza-temperatury-apu-o-32.html"
+  },
+  {
+    "id": 94,
+    "date": "2023-06-11",
+    "title": "Debian 12 ujrzał światło dzienne! Jakie nowości oferuje „Bookworm”?",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/debian-12-ujrzal-swiatlo-dzienne.html"
+  },
+  {
+    "id": 95,
+    "date": "2023-06-13",
+    "title": "Blizzard zapowiedział misje fabularne do Overwatch 2! Nie wszyscy jednak zagrają…",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/blizzard-zapowiedzial-misje-fabularne-do-overwatch-2.html"
+  },
+  {
+    "id": 96,
+    "date": "2023-06-18",
+    "title": "Microsoft coraz bardziej ogranicza możliwości starszych aplikacji – „Win32 app isolation” w fazie testowej",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/microsoft-coraz-bardziej-ogranicza-mozliwosci-starszych-aplikacji.html"
+  },
+  {
+    "id": 97,
+    "date": "2023-06-25",
+    "title": "Co może powstać z połączenia Raspberry Pi i GameBoy Advance? Kolejny ciekawy projekt!",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/co-moze-powstac-z-polaczenia-raspberry-pi-i-gameboy-advance.html"
+  },
+  {
+    "id": 98,
+    "date": "2023-06-25",
+    "title": "Nowe sterowniki linuksowe dla Intel Arc zwiększają wydajność nawet o 11%!",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/nowe-sterowniki-zwiekszaja-wydajnosc-nawet-o-11.html"
+  },
+  {
+    "id": 99,
+    "date": "2023-06-26",
+    "title": "ASRock zaprezentował swoją ofertę minikomputerów. Jaki drzemie w nich potencjał?",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/asrock-zaprezentowal-swoja-oferte-minikomputerow.html"
+  },
+  {
+    "id": 100,
+    "date": "2023-06-27",
+    "title": "Microsoft chce w pełni umieścić system Windows w chmurze - Jakie będą tego konsekwencje?",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/microsoft-chce-w-pelni-umiescic-system-windows-w-chmurze.html"
+  },
+  {
+    "id": 101,
+    "date": "2023-06-28",
+    "title": "Dawny „Spinacz” wraca do systemu Windows. Tak jakby…",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/dawny-spinacz-wraca-do-systemu-windows-tak-jakby.html"
+  },
+  {
+    "id": 102,
+    "date": "2023-06-30",
+    "title": "Pixel Fold w limitowanej edycji specjalnej będzie dostępny tylko dla „prawilnych ziomeczków” Google",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/pixel-fold-w-limitowanej-edycji-nie-bedzie-dla-wszystkich.html"
+  },
+  {
+    "id": 103,
+    "date": "2023-07-01",
+    "title": "Reddit'owa app-okalipsa ruszyła. Aplikacje firm trzecich utraciły łączność z API",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/reddit-aplikacje-firm-trzecich-utracily-lacznosc-z-api.html"
+  },
+  {
+    "id": 104,
+    "date": "2023-07-02",
+    "title": "Alternatywa dla Twittera nie wytrzymuje napływu nowych użytkowników! Tymczasowo zablokowali możliwość rejestracji",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/alternatywa-dla-twittera-nie-wytrzymuje-naplywu-uzytkownikow.html"
+  },
+  {
+    "id": 105,
+    "date": "2023-07-05",
+    "title": "RedMagic 8S Pro+ - smartfon z największą ilością pamięci RAM na świecie dostępny w sprzedaży!",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/redmagic-8s-pro-dostepny-w-sprzedazy.html"
+  },
+  {
+    "id": 106,
+    "date": "2023-07-07",
+    "title": "Microsoft uznał, że sam Ci zainstaluje rozszerzenie do usług... Google?",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/edge-instaluje-rozszerzenie-od-google.html"
+  },
+  {
+    "id": 107,
+    "date": "2023-07-08",
+    "title": "Jeśli chcesz coś zrobić dobrze, zrób to sam. Stworzono narzędzie do monitorowania złącza 12VHPWR",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/stworzono-narzedzie-do-monitorowania-zlacza-12vhpwr.html"
+  },
+  {
+    "id": 108,
+    "date": "2023-07-09",
+    "title": "Kolejna nieudana próba przemytu procesorów do Chin. Padł rekord ilości przymocowanych CPU do ciała",
+    "category": "Procesory",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/kolejna-nieudana-proba-przemytu-procesorow-do-chin.html"
+  },
+  {
+    "id": 109,
+    "date": "2023-07-10",
+    "title": "Aplikacje na Androida będą jeszcze lepiej działać w systemie Windows 11",
+    "category": "Oprogramowanie",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/aplikacje-na-androida-beda-lepiej-dzialac-w-windows-11.html"
+  },
+  {
+    "id": 110,
+    "date": "2023-07-12",
+    "title": "Hellboy powraca w nowej odsłonie. Zapowiedź gry intryguje",
+    "category": "Gry",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/hellboy-powraca-do-swiata-gier.html"
+  },
+  {
+    "id": 111,
+    "date": "2023-07-13",
+    "title": "W The Last of Us lepiej grać na 17 letniej konsoli, niż Steam Decku. Dlaczego?",
+    "category": "Gry",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/w-the-last-of-us-lepiej-grac-na-ps3-niz-steam-decku.html"
+  },
+  {
+    "id": 112,
+    "date": "2023-07-15",
+    "title": "Lenovo wprowadza swój model GeForce 4000 w formacie Mini-ITX",
+    "category": "Karty graficzne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/lenovo-wprowadza-geforce-rtx-4060-w-formacie-mini-itx.html"
+  },
+  {
+    "id": 113,
+    "date": "2023-07-16",
+    "title": "Sony doszło do porozumienia z Microsoft w sprawie Call of Duty",
+    "category": "Wydarzenia",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/sony-doszlo-do-porozumienia-z-microsoft-w-sprawie-call-of-duty.html"
+  },
+  {
+    "id": 114,
+    "date": "2023-07-17",
+    "title": "Chiński PC czerpie ze Steam Machines oraz konsol. Co takiego posiada?",
+    "category": "Komputery",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/chinski-pc-czerpie-ze-steam-machines-oraz-konsol.html"
+  },
+  {
+    "id": 115,
+    "date": "2023-07-17",
+    "title": "Rosja zakazuje urzędnikom państwowym używania iPhone'ów w obawie przed ich hakowaniem",
+    "category": "Bezpieczeństwo",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/rosja-zakazuje-urzednikom-panstwowym-uzywania-iphone.html"
+  },
+  {
+    "id": 116,
+    "date": "2023-07-18",
+    "title": "Microsoft znowu ma spór z UE. O co tym razem chodzi?",
+    "category": "Oprogramowanie",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/microsoft-znowu-ma-spor-z-ue.html"
+  },
+  {
+    "id": 117,
+    "date": "2023-07-18",
+    "title": "Tysiące graczy dziękuje za łatkę do Call of Duty na konsolę… Xbox 360",
+    "category": "Gry Xbox 360",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/gracze-dziekuja-za-latke-do-call-of-duty-na-xbox-360.html"
+  },
+  {
+    "id": 118,
+    "date": "2023-07-20",
+    "title": "Pamiętasz warezy? Canal+ poszło na wojnę z właścicielem tego typu serwisów",
+    "category": "Wydarzenia",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/testy_i_recenzje/canal-plus-poszlo-na-wojne-z-wlascicielem-warezow.html"
+  },
+  {
+    "id": 119,
+    "date": "2023-07-22",
+    "title": "Modyfikacja Nintendo Switch pozwala uruchamiać gry z PC. Niestety efekt finalny pozostawia wiele do życzenia",
+    "category": "Konsole do gier",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/modyfikacja-nintendo-switch-pozwala-uruchamiac-gry-z-pc.html"
+  },
+  {
+    "id": 120,
+    "date": "2023-07-23",
+    "title": "Sprzęt otwartoźródłowy. Czym jest i w jakim celu powstał?",
+    "category": "Testy i recenzje",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/testy_i_recenzje/podglad/13213/sprzet-otwartozrodlowy-czym-jest-i-w-jakim-celu-powstal.html"
+  },
+  {
+    "id": 121,
+    "date": "2023-07-26",
+    "title": "Składasz komptuer, AI podpowiada podzespoły",
+    "category": "Komputery",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/newegg-pc-builder-tool-wsparty-przez-ai.html"
+  },
+  {
+    "id": 122,
+    "date": "2023-07-30",
+    "title": "Skoro nie będzie Twittera, to jak będą zwać się \"tweety\"?",
+    "category": "Internet",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/jak-beda-nazywac-sie-tweety.html"
+  },
+  {
+    "id": 123,
+    "date": "2023-07-31",
+    "title": "Procesor z konsoli przetestowany w PC. Jak wypada AMD 4800S Desktop Kit?",
+    "category": "Komputery",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/amd-4800s-desktop-kit-zostal-przetestowany.html"
+  },
+  {
+    "id": 124,
+    "date": "2023-08-01",
+    "title": "Czy Lenovo stanie do pojedynku z Valve i ASUS na konsole mobilne?",
+    "category": "Komputery",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/czy-lenovo-stanie-do-pojedynku-z-valve-i-asus.html"
+  },
+  {
+    "id": 125,
+    "date": "2023-08-02",
+    "title": "W sklepie Nintendo można było kupić The Last of... Hope?",
+    "category": "Gry na konsole",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/w-sklepie-nintendo-mozna-bylo-kupic-the-last-hope.html"
+  },
+  {
+    "id": 126,
+    "date": "2023-08-04",
+    "title": "Exploit w Tesli pozwala wykraść dane i odblokować funkcje za 15 000$",
+    "category": "Bezpieczeństwo",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/exploit-w-tesli-pozwala-wykrasc-dane-i-odblokowac-funkcje.html"
+  },
+  {
+    "id": 127,
+    "date": "2023-08-05",
+    "title": "Czy Steam Deck poradzi sobie z Baldur's Gate 3?",
+    "category": "Gry",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/czy-steam-deck-poradzi-sobie-z-baldurs-gate-3.html"
+  },
+  {
+    "id": 128,
+    "date": "2023-08-08",
+    "title": "Valve przedstawił ciekawą ofertę na Steam Deck",
+    "category": "Konsole do gier",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/valve-przedstawil-ciekawa-oferte-na-steam-deck.html"
+  },
+  {
+    "id": 129,
+    "date": "2023-08-08",
+    "title": "Weteran AMD dołącza do firmy Intel. Kogo zatrudnili?",
+    "category": "Technologie i Firma",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/weteran-amd-dolacza-do-firmy-intel.html"
+  },
+  {
+    "id": 130,
+    "date": "2023-08-09",
+    "title": "Banana Pi BPI-CM2 ujawniony. Co zaoferuje potencjalnym klientom?",
+    "category": "Komputery",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/banana-pi-bpi-cm2-ujawniony.html"
+  },
+  {
+    "id": 131,
+    "date": "2023-08-10",
+    "title": "Co może powstać z połączenia smartfonu i komputera typu AiO?",
+    "category": "Komputery",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/co-moze-powstac-z-polaczenia-smartfonu-i-aio.html"
+  },
+  {
+    "id": 132,
+    "date": "2023-08-10",
+    "title": "Sony testuje PS5 Cloud Gaming z opcją przesyłania strumieniowego w 4K",
+    "category": "Konsole do gier",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/sony-testuje-ps5-cloud-gaming-w-4k.html"
+  },
+  {
+    "id": 133,
+    "date": "2023-08-11",
+    "title": "Twój telefon z Androidem może wykrywać „szpiegujące” AirTags",
+    "category": "Bezpieczeństwo",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/twoj-telefon-moze-wykrywac-szpiegujzce-airtags.html"
+  },
+  {
+    "id": 134,
+    "date": "2023-08-15",
+    "title": "Pożar statku Fremantle Highway – Od czego się to zaczęło? Co z elektrykami?",
+    "category": "Wydarzenia",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/pozar-statku-fremantle-highway-analiza.html"
+  },
+  {
+    "id": 135,
+    "date": "2023-08-17",
+    "title": "Ekonomia Diablo 4 jest w rozsypce. Niektórzy wydają miliardy (!) na nową broń",
+    "category": "Gry",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/ekonomia-diablo-4-jest-w-rozsypce.html"
+  },
+  {
+    "id": 136,
+    "date": "2023-08-18",
+    "title": "Karty Intel Arc są coraz lepsze. Uzyskują wyższą wydajność w DX11 i dodatkowe funkcje",
+    "category": "Karty graficzne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/karty-intel-arc-sa-coraz-lepsze.html"
+  },
+  {
+    "id": 137,
+    "date": "2023-08-23",
+    "title": "Procesory poza USA - Jak Rosja i Chiny próbują konkurować na rynku CPU?",
+    "category": "Procesory",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/testy_i_recenzje/o-chinskich-i-rosyjskich-procesorach-slow-kilka.html"
+  },
+  {
+    "id": 138,
+    "date": "2023-08-23",
+    "title": "Wojna o warezy nadal trwa – \"Canal+ próbuje mnie zastraszyć\"",
+    "category": "Internet",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/canal-plus-probuje-mnie-zastraszyc.html"
+  },
+  {
+    "id": 139,
+    "date": "2023-08-26",
+    "title": "ZimaBlade rzuca wyzwanie Raspberry Pi. Co oferuje chiński SBC?",
+    "category": "Komputery",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/zimablade-rzuca-wyzwanie-raspberry-pi.html"
+  },
+  {
+    "id": 140,
+    "date": "2023-08-27",
+    "title": "YouTube Music dostaje wyczekiwane funkcje. Czy zacznie doganiać Spotify?",
+    "category": "Mobile",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/youtube-music-dostaje-wyczekiwane-funkcje.html"
+  },
+  {
+    "id": 141,
+    "date": "2023-09-02",
+    "title": "Legendarny program z Windows idzie do lamusa. Każdy miał okazję z niego korzystać",
+    "category": "Oprogramowanie",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/legendarny-program-z-windows-idzie-do-lamusa.html"
+  },
+  {
+    "id": 142,
+    "date": "2023-09-03",
+    "title": "Zamówił procesor z dużego sklepu internetowego. Niestety „wszedł na minę”",
+    "category": "Podzespoły",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/zamowil-procesor-z-duzego-sklepu-internetowego.html"
+  },
+  {
+    "id": 143,
+    "date": "2023-09-10",
+    "title": "Nowa płytka Orange Pi deklasuje konkurenta możliwościami i ceną",
+    "category": "Komputery",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/nowa-plytka-orange-pi-deklasuje-konkurenta.html"
+  },
+  {
+    "id": 144,
+    "date": "2023-09-10",
+    "title": "Zapomnieliście o Surface Duo? Nie martwcie się, Microsoft również…",
+    "category": "Smartfony",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/microsoft-porzucil-surface-duo.html"
+  },
+  {
+    "id": 145,
+    "date": "2023-09-16",
+    "title": "Notatnik i Narzędzie wycinanie Windows otrzymują spektakularne funkcje",
+    "category": "Oprogramowanie",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/notatni-i-narzedzie-wycinanie-z-nowymi-funkcjami.html"
+  },
+  {
+    "id": 146,
+    "date": "2023-09-17",
+    "title": "Acer prezentuje świetny monitor do rozgrywek e-sportowych",
+    "category": "Monitory",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/acer-prezentuje-monitor-do-rozgrywek-e-sportowych.html"
+  },
+  {
+    "id": 147,
+    "date": "2023-09-17",
+    "title": "Cenione narzędzie do testów GPU zyskuje nową wersję i funkcje",
+    "category": "Benchmarki",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/cenione-narzedzie-do-testow-gpu-zyskuje-nowa-wersje-i-funkcje.html"
+  },
+  {
+    "id": 148,
+    "date": "2023-09-17",
+    "title": "Otwartoźródłowy AirTag pomoże odnaleźć Twojego pupila",
+    "category": "Mobile",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/otwartozrodlowy-airtag-pomoze-odnalezc-twojego-pupila.html"
+  },
+  {
+    "id": 149,
+    "date": "2023-09-19",
+    "title": "Gorilla Glass już nie jest najmocniejsze? Chiny mają nowego pretendenta",
+    "category": "Smartfony",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/gorilla-glass-juz-nie-jest-najmocniejsze.html"
+  },
+  {
+    "id": 150,
+    "date": "2023-09-23",
+    "title": "Google prezentuje imponujące możliwości aparatów w smartfonach Pixel 8 (Pro)",
+    "category": "Smartfony",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/google-prezentuje-mozliwosci-aparatow-w-pixelu-8-pro.html"
+  },
+  {
+    "id": 151,
+    "date": "2023-09-24",
+    "title": "Nowe funkcje na platformie YouTube poszerzą możliwości twórców filmów",
+    "category": "Internet",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/nowe-funkcje-na-youtube-poszerza-mozliwosci-tworcow.html"
+  },
+  {
+    "id": 152,
+    "date": "2023-09-30",
+    "title": "Microsoft (znowu) kończy z darmowymi aktualizacjami systemu do Windows 10/11",
+    "category": "Oprogramowanie",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/microsoft-konczy-z-darmowymi-aktualizacjami-do-windows-10-11.html"
+  },
+  {
+    "id": 153,
+    "date": "2023-10-01",
+    "title": "Raspberry Pi 5 po OC z bardzo ciekawymi wynikami",
+    "category": "Komputery",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/raspberry-pi-5-po-oc-z-bardzo-ciekawymi-wynikami.html"
+  },
+  {
+    "id": 154,
+    "date": "2023-10-03",
+    "title": "Tanie klucze Windows „z drugiej ręki”. Jak to w końcu z nimi jest?",
+    "category": "Systemy operacyjne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/testy_i_recenzje/czy-tani-klucz-do-windows-jest-legalny.html"
+  },
+  {
+    "id": 155,
+    "date": "2023-10-08",
+    "title": "Nvidia odwołuje swoje wydarzenie dotyczące AI. Co stoi za taką decyzją?",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/nvidia-odwoluje-swoje-wydarzenie-dotyczace-ai.html"
+  },
+  {
+    "id": 156,
+    "date": "2023-10-14",
+    "title": "Microsoft przedstawia obszerną instrukcję instalacji systemu... Linux?",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/microsoft-przedstawia-instrukcje-instalacji-systemu-linux.html"
+  },
+  {
+    "id": 157,
+    "date": "2023-10-15",
+    "title": "OpenWrt 23.05 szansą dla wielu routerów. Da im poprawki bezpieczeństwa i nowe funkcje",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/openwrt-23-05-zapewnia-poprawki-bezpieczenstwa-i-nowe-funkcje.html"
+  },
+  {
+    "id": 158,
+    "date": "2023-10-15",
+    "title": "Prywatność ponad wszystko. Murena 2 zapewni, by nikt Cię nie podglądał",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/murena-2-zapewni-by-nikt-cie-nie-podgladal.html"
+  },
+  {
+    "id": 159,
+    "date": "2023-10-21",
+    "title": "YouTube pracuje nad narzędziem AI, które pozwoli używać głosów znanych muzyków",
+    "category": "—",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/youtube-chce-uzywac-glosow-muzykow-przez-narzedzie-ai.html"
+  },
+  {
+    "id": 160,
+    "date": "2023-10-22",
+    "title": "LicheeConsole4A - malutki laptop, który skrywa nietypowe rozwiązania",
+    "category": "Laptopy",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/licheeconsole4a-laptop-skrywa-nietypowe-rozwiazania.html"
+  },
+  {
+    "id": 161,
+    "date": "2023-10-28",
+    "title": "Sprawdź telefony najbliższych. Te gry i programy to podstępne trojany!",
+    "category": "Aplikacje mobilne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/te-gry-i-programy-to-podstepne-trojany.html"
+  },
+  {
+    "id": 162,
+    "date": "2023-10-29",
+    "title": "Windows 11 dostał obsługę kolejnych archiwów. Jakie pliki będzie można wypakować?",
+    "category": "Systemy operacyjne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/windows-11-dostal-obsluge-kolejnych-archiwow.html"
+  },
+  {
+    "id": 163,
+    "date": "2023-11-01",
+    "title": "Korzystasz z Adblocka? YouTube \"zachęci Cię\" do zmiany przyzwyczajeń",
+    "category": "Internet",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/youtube-zmienia-polityke-wobec-reklam.html"
+  },
+  {
+    "id": 164,
+    "date": "2023-11-04",
+    "title": "To małe urządzenie sprawia, że iPhone'y stają się bezużyteczne",
+    "category": "Bezpieczeństwo",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/to-male-urzadzenie-sprawia-ze-iphone-staje-sie-bezuzyteczny.html"
+  },
+  {
+    "id": 165,
+    "date": "2023-11-05",
+    "title": "11 bit Studios wchodzi w partnerstwo z gigantem branży IT",
+    "category": "Technologie i Firma",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/bit-studios-wchodzi-w-partnerstwo-z-gigantem-branzy-it.html"
+  },
+  {
+    "id": 166,
+    "date": "2023-11-05",
+    "title": "Chiński iMac nadciąga w nowej wersji. Czy w końcu pojawi się w Polsce?",
+    "category": "Komputery",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/chinski-imac-nadciaga-w-nowej-wersji.html"
+  },
+  {
+    "id": 167,
+    "date": "2023-11-11",
+    "title": "Xiaomi ma już nowy system. Nie każdemu spodobają się jego zasady",
+    "category": "Systemy operacyjne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/nowy-system-xiaomi-zmienia-niektore-zasady.html"
+  },
+  {
+    "id": 168,
+    "date": "2023-11-12",
+    "title": "Windows 11 może mieć o wiele praktyczniejszy eksplorator plików",
+    "category": "Oprogramowanie",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/windows-11-moze-miec-lepszy-eksplorator-plikow.html"
+  },
+  {
+    "id": 169,
+    "date": "2023-11-12",
+    "title": "YouTube walczy z AdBlockami. Czy UE ukarze Google za ten proceder?",
+    "category": "Internet",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/czy-ue-ukaze-google-za-blokowanie-adblockerow.html"
+  },
+  {
+    "id": 170,
+    "date": "2023-11-16",
+    "title": "Nowa \"Malinka\" otrzymała \"kapelusz\" na moduły M.2… Że co dostała?",
+    "category": "Peryferia",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/nowa-malinka-otrzymala-kapelusz-na-moduly-m2.html"
+  },
+  {
+    "id": 171,
+    "date": "2023-11-17",
+    "title": "Ekskluzywny \"GameBoy\" otrzyma edycję limitowaną",
+    "category": "Konsole do gier",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/ekskluzywny-gameboy-otrzyma-edycje-limitowana.html"
+  },
+  {
+    "id": 172,
+    "date": "2023-11-18",
+    "title": "Easter eggi w wyszukiwarce Google. Znasz je wszystkie?",
+    "category": "Internet",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/easter-eggi-w-wyszukiwarce-google.html"
+  },
+  {
+    "id": 173,
+    "date": "2023-11-25",
+    "title": "Świetna baza pod router na moduły 5G i WiFi 7 w bardzo dobrej cenie",
+    "category": "Routery",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/swietna-baza-pod-router-na-moduly-5g-i-wifi-7.html"
+  },
+  {
+    "id": 174,
+    "date": "2023-11-28",
+    "title": "Masz problem z zasięgiem Wi-Fi? Podpowiadamy co zrobić",
+    "category": "Routery",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/testy_i_recenzje/jak-rozwiazac-problem-z-zasiegiem-wifi-poradnik.html"
+  },
+  {
+    "id": 175,
+    "date": "2023-12-02",
+    "title": "ROG Ally z szybszą i większą ilością RAM? „Jest możliwe!”",
+    "category": "Sprzęt do gier",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/rog-ally-z-szybsza-i-wieksza-iloscia-ram.html"
+  },
+  {
+    "id": 176,
+    "date": "2023-12-08",
+    "title": "Ataki na urządzenia mobilne w warszawskim metrze! Co za tym stoi?",
+    "category": "Bezpieczeństwo",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/ataki-na-urzadzenia-mobilne-w-warszawskim-metrze.html"
+  },
+  {
+    "id": 177,
+    "date": "2023-12-09",
+    "title": "Acer udowadnia, że RTX 4090 może być… cieplejszy i głośniejszy?",
+    "category": "Karty graficzne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/acer-rtx-4090-jest-goracy-i-glosny.html"
+  },
+  {
+    "id": 178,
+    "date": "2023-12-09",
+    "title": "Microsoft myśli, jak wprowadzić edytor tekstu do... wiersza poleceń",
+    "category": "Oprogramowanie",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/microsoft-mysli-jak-dodac-edytor-tekstu-do-cli.html"
+  },
+  {
+    "id": 179,
+    "date": "2023-12-10",
+    "title": "Widzieliście imponujące demo Gemini od Google? Jest z nim jeden problem…",
+    "category": "Internet",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/widzieliscie-demo-gemini-od-google.html"
+  },
+  {
+    "id": 180,
+    "date": "2023-12-17",
+    "title": "Intel dzieli szczegółami o nowej technologii. Konkurencja dla DLSS 3 i FSR 3.0",
+    "category": "Komputery",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/intel-dzieli-sie-szczegolami-na-temat-platformy-extrass.html"
+  },
+  {
+    "id": 181,
+    "date": "2023-12-17",
+    "title": "Jak zaoszczędzić na prezencie świątecznym? Czym jest zakup z outletu?",
+    "category": "Testy i recenzje",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/testy_i_recenzje/podglad/13584/jak-zaoszczedzic-na-prezencie-swiatecznym.html"
+  },
+  {
+    "id": 182,
+    "date": "2023-12-17",
+    "title": "Procesor z PS5 do kopania kryptowalut? A czemu nie",
+    "category": "Komputery",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/procesor-z-ps5-do-kopania-kryptowalut.html"
+  },
+  {
+    "id": 183,
+    "date": "2023-12-22",
+    "title": "Trojan na Androida próbuje wyłudzić Twój PIN. Tłumaczymy na co uważać",
+    "category": "Bezpieczeństwo",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/trojan-na-androida-probuje-wyludzic-twoj-pin.html"
+  },
+  {
+    "id": 184,
+    "date": "2023-12-24",
+    "title": "BYD chce zagrozić pozycji Tesli. Co planuje chiński gigant elektromobilności?",
+    "category": "Samochody elektryczne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/byd-chce-zagrozic-pozycji-tesli.html"
+  },
+  {
+    "id": 185,
+    "date": "2023-12-25",
+    "title": "Upscaling z generowaniem klatek od AMD dostępny w nieobsługiwanych grach",
+    "category": "Gry komputerowe",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/fsr3-od-amd-dostepny-w-nieobslugiwanych-grach.html"
+  },
+  {
+    "id": 186,
+    "date": "2023-12-26",
+    "title": "R7 7700X i RTX 4060 chłodzone pasywnie? Czegoś takiego dawno nie było",
+    "category": "Komputery",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/ryzen-7-7700x-i-geforce-rtx-4060-chlodzone-pasywnie.html"
+  },
+  {
+    "id": 187,
+    "date": "2023-12-26",
+    "title": "Xiaomi 14 jednak z globalną premierą? Kiedy możemy się spodziewać prezentacji?",
+    "category": "Smartfony",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/xiaomi-14-najprawdopodobniej-z-globalna-premiera.html"
+  },
+  {
+    "id": 188,
+    "date": "2023-12-31",
+    "title": "GeForce i Cyberpunk spotykają się po raz trzeci",
+    "category": "Karty graficzne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/geforce-i-cyberpunk-spotykaja-sie-po-raz-trzeci.html"
+  },
+  {
+    "id": 189,
+    "date": "2023-12-31",
+    "title": "Myszki Mikey i Minnie odzyskały wolność. Czy wyjdzie im to na dobre?",
+    "category": "Wydarzenia",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/myszki-mikey-i-minnie-odzyskaly-wolnosc.html"
+  },
+  {
+    "id": 190,
+    "date": "2024-01-07",
+    "title": "Cyfrowi archeolodzy odkopali pradawną wersję systemu firmy Microsoft",
+    "category": "Systemy operacyjne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/odnaleziono-pradawna-wersje-systemu-firmy-microsoft.html"
+  },
+  {
+    "id": 191,
+    "date": "2024-01-07",
+    "title": "W Star Citizen dostępny jest nowy pakiet premium. Cena wywala z butów",
+    "category": "Gry",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/star-citizen-prezentuje-nowy-pakiet-premium-legatus.html"
+  },
+  {
+    "id": 192,
+    "date": "2024-01-14",
+    "title": "Ceramika pozwoli przechowywać mnóstwo danych przez tysiące lat?",
+    "category": "Ciekawostki",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/ceramika-pozwoli-przechowywac-dane-przez-tysiace-lat.html"
+  },
+  {
+    "id": 193,
+    "date": "2024-01-14",
+    "title": "Młody haker przejął milion serwerów wirtualnych, by nielegalnie wydobywać kryptowaluty",
+    "category": "Bezpieczeństwo",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/haker-przejal-milion-serwerow-w-chmurze-by-wydobywac-kryptowaluty.html"
+  },
+  {
+    "id": 194,
+    "date": "2024-01-18",
+    "title": "A może czas na prezent po świętach? Czym jest zakup z outletu?",
+    "category": "Ciekawostki",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/testy_i_recenzje/a-moze-czas-na-prezent-po-swietach-czym-jest-zakup-z-outletu.html"
+  },
+  {
+    "id": 195,
+    "date": "2024-01-20",
+    "title": "Huawei pokazał coś nowego. Potencjał jest ogromny",
+    "category": "Systemy operacyjne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/huawei-pokazal-cos-nowego-potencjal-jest-ogromny.html"
+  },
+  {
+    "id": 196,
+    "date": "2024-01-27",
+    "title": "Czy Intel wprowadzi „maga bitewnego” do laptopów?",
+    "category": "Karty graficzne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/czy-intel-wprowadzi-maga-bitewnego-do-laptopow.html"
+  },
+  {
+    "id": 197,
+    "date": "2024-01-28",
+    "title": "Porsche podąża za trendami. Klasyczny model ze sporymi zmianami",
+    "category": "Samochody elektryczne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/zmiany-w-modelu-porsche-macan.html"
+  },
+  {
+    "id": 198,
+    "date": "2024-02-04",
+    "title": "Telekonferencja na bogato. Cały zespół w doskonałej jakości przed wielkim ekranem",
+    "category": "Telewizory",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/telekonferencja-w-doskonalej-jakosci-przed-wielkim-ekranem.html"
+  },
+  {
+    "id": 199,
+    "date": "2024-02-10",
+    "title": "Apple będzie licencjonować swój system firmom trzecim?",
+    "category": "Systemy operacyjne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/apple-bedzie-licencjonowac-swoj-system-firmom-trzecim.html"
+  },
+  {
+    "id": 200,
+    "date": "2024-02-18",
+    "title": "Najnowszy RTX zbiera baty od kilkuletniego GPU. Wydajność rozczarowuje",
+    "category": "Karty graficzne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/najnowszy-rtx-zbiera-baty-od-kilkuletniego-gpu.html"
+  },
+  {
+    "id": 201,
+    "date": "2024-03-30",
+    "title": "OpenAI zadowoli się już małą próbką głosu. Czy AI zacznie mówić głosem Twoich bliskich?",
+    "category": "Oprogramowanie",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/czy-ai-zacznie-mowic-glosem-twoich-bliskich.html"
+  },
+  {
+    "id": 202,
+    "date": "2024-04-07",
+    "title": "AMD planuje odświeżenie socketu? Mikrokody zdradzają szczegóły [AKTUALIZACJA]",
+    "category": "Procesory",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/czy-amd-planuje-odswiezenie-socketu.html"
+  },
+  {
+    "id": 203,
+    "date": "2024-05-01",
+    "title": "Nokia przedstawia nowe, klasyczne telefony. Oferują kilka nietypowych funkcji!",
+    "category": "Telefony",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/nokia-przedstawia-nowe-telefony-oferuja-nietypowe-funkcje.html"
+  },
+  {
+    "id": 204,
+    "date": "2024-05-03",
+    "title": "Prawdziwy pancernik wśród smartfonów, a do tego jak wyposażony!",
+    "category": "Smartfony",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/pancernik-wsrod-smatfonow-a-do-tego-jak-wyposazony.html"
+  },
+  {
+    "id": 205,
+    "date": "2024-06-24",
+    "title": "Pyrkon 2024 – Fantastyczny świat, który każdy (gracz) powinien odwiedzić! [OPINIA]",
+    "category": "Wydarzenia",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/testy_i_recenzje/pyrkon-2024-fantastyczny-swiat-dla-graczy-i-nie-tylko.html"
+  },
+  {
+    "id": 206,
+    "date": "2024-06-25",
+    "title": "Pracownicy biurowi zaczynają akceptować AI w swojej pracy?",
+    "category": "Technologie i Firma",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/genai-wchodzi-do-coraz-wiekszej-ilosci-firm.html"
+  },
+  {
+    "id": 207,
+    "date": "2024-06-30",
+    "title": "Ten system ma już 30 lat i nadal jest rozwijany! O który OS chodzi?",
+    "category": "Systemy operacyjne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/ten-system-ma-juz-30-lat-i-jnadal-jest-rozwijany.html"
+  },
+  {
+    "id": 208,
+    "date": "2024-07-01",
+    "title": "Znana funkcja z aut zostaje przeniesiona do sprzętu dla graczy. Nietypowe, ale jakie przydatne!",
+    "category": "Fotele gamingowe",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/funkcja-z-aut-zostaje-przeniesiona-do-sprzetu-dla-graczy.html"
+  },
+  {
+    "id": 209,
+    "date": "2024-07-06",
+    "title": "Czy są tu jacyś miłośnicy BMW? Infinix ma dla Was świetny smartfon!",
+    "category": "Smartfony",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/infinix-ma-smartfon-dla-fanow-bmw.html"
+  },
+  {
+    "id": 210,
+    "date": "2024-07-08",
+    "title": "Microsoft rozbudował Notatnik o przydatną funkcję. Zajęło im to tylko... 41 lat",
+    "category": "Oprogramowanie",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/microsoft-rozbudowal-notatnik-o-przydatna-funkcje.html"
+  },
+  {
+    "id": 211,
+    "date": "2024-07-09",
+    "title": "Spotify wprowadza nową funkcję. Wiele osób może ona zainteresować",
+    "category": "Internet",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/spotify-wprowadza-nowa-funkcje.html"
+  },
+  {
+    "id": 212,
+    "date": "2024-07-11",
+    "title": "Dlaczego gry na Snapdragonach działają tak źle? Gdzie leży problem?",
+    "category": "Komputery",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/dlaczego-gry-na-snapdragonach-dzialaja-tak-zle.html"
+  },
+  {
+    "id": 213,
+    "date": "2024-08-08",
+    "title": "Nowy Mac Mini nadchodzi. Będzie „najmniejszym komputerem stacjonarnym firmy”",
+    "category": "Komputery",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/nowy-mac-mini-nadchodzi-czego-mozemy-oczekiwac.html"
+  },
+  {
+    "id": 214,
+    "date": "2024-08-09",
+    "title": "Idą na wojnę z Muskiem. Zablokowali X w całym kraju",
+    "category": "Wydarzenia",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/platforma-x-zbanowana-w-wenezueli.html"
+  },
+  {
+    "id": 215,
+    "date": "2024-08-10",
+    "title": "Najpopularniejsze oszustwa typu phishing w 2024 roku. Na co warto uważać?",
+    "category": "Bezpieczeństwo",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/testy_i_recenzje/najpopularniejsze-oszustwa-typu-phishing-w-2024-roku.html"
+  },
+  {
+    "id": 216,
+    "date": "2024-08-11",
+    "title": "Microsoft uśmierca kolejny program. Decyzja jest dość nietypowa",
+    "category": "Oprogramowanie",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/microsoft-usmierca-kolejny-program.html"
+  },
+  {
+    "id": 217,
+    "date": "2024-08-12",
+    "title": "Liczysz na budżetowe GPU od AMD? To sobie poczekasz...",
+    "category": "Karty graficzne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/kiedy-beda-tansze-gpu-od-amd.html"
+  },
+  {
+    "id": 218,
+    "date": "2024-08-24",
+    "title": "Konkurencja dla The Sims powoduje opad szczęki. Tak może wyglądać symulator życia przyszłości",
+    "category": "Gry",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/konkurencja-dla-the-sims-pokazuje-imponujaca-technologie.html"
+  },
+  {
+    "id": 219,
+    "date": "2024-08-29",
+    "title": "Bardzo nietypowa, polska dystrybucja dostała nową wersję. Co zawiera?",
+    "category": "Systemy operacyjne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/bardzo-nietypowa-polska-dystrybucja-dostala-nowa-wersje.html"
+  },
+  {
+    "id": 220,
+    "date": "2024-09-07",
+    "title": "Ile można zmieścić w obudowie o pojemności 16 litrów?",
+    "category": "Obudowy",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/co-zmiescimy-w-obudowie-o-pojemnosci-16-8-litra.html#comments"
+  },
+  {
+    "id": 221,
+    "date": "2024-09-11",
+    "title": "MSI prezentuje bardzo nietypową płytę główną. Do kogo jest kierowana?",
+    "category": "Płyty główne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/msi-prezentuje-bardzo-nietypowa-plyte-glowna.html"
+  },
+  {
+    "id": 222,
+    "date": "2024-09-21",
+    "title": "iOS 18 skrywa nietypowe rozwiązanie dla starszych urządzeń",
+    "category": "Systemy operacyjne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/ios-18-wprowadza-rozwiazanie-sprzed-lat.html"
+  },
+  {
+    "id": 223,
+    "date": "2024-09-22",
+    "title": "Co przyniesie iPhone 17? Prawdopodobnie to, na co wielu czekało!",
+    "category": "Smartfony",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/iphone-17-moze-przyniesc-wazna-zmiane.html"
+  },
+  {
+    "id": 224,
+    "date": "2024-09-28",
+    "title": "A co Ty na to, by smartfon sam się ładował?",
+    "category": "Smartfony",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/smartfon-ladujacy-sie-bez-ladowarki.html"
+  },
+  {
+    "id": 225,
+    "date": "2024-09-29",
+    "title": "Może i sporo kosztuje, ale rozwiązuje problem ze złączami 12VHPWR!",
+    "category": "Akcesoria",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/thermal-grizzly-prezentuje-wireview-gpu-pro.html"
+  },
+  {
+    "id": 226,
+    "date": "2024-10-05",
+    "title": "Xiaomi 15 Pro: Pierwszy rzut oka na nową konstrukcję",
+    "category": "Smartfony",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/xiaomi-15-pro-pierwszy-rzut-oka-na-nowa-konstrukcje.html"
+  },
+  {
+    "id": 227,
+    "date": "2024-10-12",
+    "title": "Prawdopodobnie miałeś ich urządzenie na nadgarstku. Legendarna firma potwierdziła wyciek danych",
+    "category": "Bezpieczeństwo",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/wyciek-danych-z-firmy-produkujacej-elektronike-uzytkowa.html"
+  },
+  {
+    "id": 228,
+    "date": "2024-10-13",
+    "title": "GIMP 3.0 nadchodzi. Co zaoferuje użytkownikom?",
+    "category": "Oprogramowanie",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/gimp-3-0-nadchodzi-co-zaoferuje-uzytkownikom.html"
+  },
+  {
+    "id": 229,
+    "date": "2024-10-13",
+    "title": "Weź MacBooka, zainstaluj Linuksa i graj w gry z Windowsa. Czego nie rozumiesz?",
+    "category": "Systemy operacyjne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/wez-macbooka-zainstaluj-linuksa-i-graj-w-gry-z-windowsa.html"
+  },
+  {
+    "id": 230,
+    "date": "2024-10-27",
+    "title": "PGA 2024 – (Czy) tu bije (kobiece) serce gamingu?",
+    "category": "Wydarzenia",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/testy_i_recenzje/pga-2024-czy-tu-bije-kobiece-serce-gamingu.html#comments"
+  },
+  {
+    "id": 231,
+    "date": "2024-11-16",
+    "title": "Mały, uroczy i przeniesie Cię do lat 90! Taki jest Pixel x86",
+    "category": "Komputery",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/pixel-x86-mini-retro-komputer.html"
+  },
+  {
+    "id": 232,
+    "date": "2024-11-22",
+    "title": "Po ponad 20 latach nareszcie jest! Otwarta alternatywa dla AutoCAD gotowa do pobrania",
+    "category": "Oprogramowanie",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/otwarta-alternatywa-dla-autocad-gotowa-do-pobrania.html"
+  },
+  {
+    "id": 233,
+    "date": "2024-11-23",
+    "title": "Chińczycy zamierzają konkurować z Elonem Muskiem. Będą tworzyć własne Starlinki",
+    "category": "Technologie i Firma",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/chinski-spacesail-bedzie-konkurowal-ze-starlinkami-w-brazylii.html"
+  },
+  {
+    "id": 234,
+    "date": "2024-12-01",
+    "title": "Wynajmij PC do gier od NZXT mówili. Będzie fajnie mówili... [AKTUALIZACJA]",
+    "category": "Komputery",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/nzxt-wynajmuje-pc-do-gier-wprowadzajac-klientow-w-blad.html"
+  },
+  {
+    "id": 235,
+    "date": "2024-12-07",
+    "title": "GTA 5 na Androida? Niby tak, ale trochę nie do końca",
+    "category": "Gry mobilne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/free-city-gra-inspirowania-gta-5-dostepna-na-androida.html"
+  },
+  {
+    "id": 236,
+    "date": "2024-12-07",
+    "title": "Takiego powrotu Spinacza od Microsoftu nikt się nie spodziewał",
+    "category": "Ciekawostki",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/spinacz-od-microsoftu-otrzymuje-wlasny-utwor.html"
+  },
+  {
+    "id": 237,
+    "date": "2024-12-08",
+    "title": "Czyżby Fortnite chciałby wejść na terytorium Counter-Strike'a?",
+    "category": "Gry",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/fortnite-z-trybem-fps-ballistic-startuje-11-grudnia.html"
+  },
+  {
+    "id": 238,
+    "date": "2024-12-10",
+    "title": "Spór NZXT z Gamers Nexus nadal trwa. Oferta Flex jest \"myląca\" i \"drapieżna\"",
+    "category": "Komputery",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/sprawa-nzxt-nadal-trwa-oferta-flex-jest-mylaca-i-drapiezna.html"
+  },
+  {
+    "id": 239,
+    "date": "2024-12-14",
+    "title": "Stwórz własny teleskop do obserwacji... Fal Wi-Fi",
+    "category": "Sieci",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/xj9-radioteleskop-diy-do-badania-fal-wi-fi.html"
+  },
+  {
+    "id": 240,
+    "date": "2025-01-19",
+    "title": "Nie tylko TikTok. USA blokują kolejne aplikacje",
+    "category": "Wydarzenia",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/nie-tylko-tiktok-usa-blokuja-kolejne-aplikacje.html"
+  },
+  {
+    "id": 241,
+    "date": "2025-02-22",
+    "title": "Apple ugięło się przed brytyjskim rządem. Szyfrowanie end-to-end zostanie wyłączone",
+    "category": "Wydarzenia",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/szyfrowanie-end-to-end-icloud-zostanie-wylaczone-w-uk.html"
+  },
+  {
+    "id": 242,
+    "date": "2025-02-24",
+    "title": "Na OLX ktoś sprzedaje flagowy telefon SONY, który nigdy nie miał premiery",
+    "category": "Smartfony",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/prototypowy-smartfon-sony-do-kupienia-na-olx.html"
+  },
+  {
+    "id": 243,
+    "date": "2025-03-01",
+    "title": "AMD potwierdza nadejście kolejnych kart RX 9000. Co o nich wiemy?",
+    "category": "Karty graficzne",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/amd-potwierdza-nadejscie-kolejnych-kart-z-serii-rx-9000.html"
+  },
+  {
+    "id": 244,
+    "date": "2025-03-09",
+    "title": "Ponad miliard urządzeń może być narażonych na atak, a to wszystko przez jeden moduł",
+    "category": "Bezpieczeństwo",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/modul-bluetooth-chinskiej-marki-ma-ukryte-instrukcje.html"
+  },
+  {
+    "id": 245,
+    "date": "2025-03-10",
+    "title": "Za cenę obiadu otrzymasz dwie świetne gry. Są to perełki ze świata Władcy Pierścieni",
+    "category": "Gry komputerowe",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/za-cene-obiadu-otrzymasz-dwa-tytuly-ze-swiata-wladcy-pierscieni.html"
+  },
+  {
+    "id": 246,
+    "date": "2025-04-26",
+    "title": "Miliony zagrały w tę grę kilka dni po premierze. Studio ma powody do świętowania",
+    "category": "Gry",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/miliony-zagraly-w-te-gre-chwile-po-premierze-a-studio-swietuje.html"
+  },
+  {
+    "id": 247,
+    "date": "2025-05-11",
+    "title": "United Airlines wprowadza rewolucję w przestworzach: szybki Internet przez cały czas lotu",
+    "category": "Sieci",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/united-airlines-wprowadza-szybki-internet-przez-caly-czas-lotu.html"
+  },
+  {
+    "id": 248,
+    "date": "2025-05-24",
+    "title": "AI nie pomaga przestępcom. Chyba że właściwie poproszą",
+    "category": "Bezpieczeństwo",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/chatboty-ai-wykorzystywane-do-popelniania-przestepstw.html"
+  },
+  {
+    "id": 249,
+    "date": "2025-06-16",
+    "title": "Pyrkon 2025 x Wiedźmin 3 – 25 lecie imprezy i 10 lecie gry [RELACJA]",
+    "category": "Wydarzenia",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/testy_i_recenzje/pyrkon-2025-x-wiedzmin-3-relacja-z-imprezy-i-uczczenia-10-lecia-gry.html"
+  },
+  {
+    "id": 250,
+    "date": "2025-07-01",
+    "title": "Pre-order Little Nightmares 3 na Nintendo Switch 2 w ogniu krytyki. Chodzi o zawartość pudełka",
+    "category": "Gry Nintendo Switch",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/pre-order-little-nightmares-3-na-switch-2-bez-fizycznej-gry.html"
+  },
+  {
+    "id": 251,
+    "date": "2025-07-20",
+    "title": "Co mogłoby się narodzić z krzyżówki Nintendo DS i Steam Decka? OneXSugar zapowiada nowy handheld",
+    "category": "Konsole do gier",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/onexsugar-sugar-1-wydajny-handheld-z-dwoma-ekranami.html"
+  },
+  {
+    "id": 252,
+    "date": "2025-10-25",
+    "title": "Nothing Phone (3a) Lite coraz bliżej. Znamy datę premiery i sugerowane ceny w UE",
+    "category": "Smartfony",
+    "publisher": "benchmark.pl",
+    "url": "https://www.benchmark.pl/aktualnosci/znamy-date-premiery-i-sugerowane-ceny-nothing-phone-3a-lite-w-ue.html"
+  }
+]
